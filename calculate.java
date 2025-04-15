@@ -6,6 +6,7 @@ public class calculate {
         int a= 10;
         int b=5;
 
+        System.out.println("calculated Result are :");
         System.out.println("Addition Result :" +(a+b));
         System.out.println("Addition Result :" +(a-b));
         System.out.println("Addition Result :" +(a*b));
